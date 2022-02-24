@@ -1,2 +1,6 @@
 # InfiniteSeriesGenerator
-Prime number generator that holds the primes in a co-routine.
+Co-routines that generate infinite series.
+
+Implementations:
+Prime Numbers
+Fibonacci
